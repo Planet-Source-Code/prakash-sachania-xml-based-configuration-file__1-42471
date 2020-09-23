@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<configuration>
+	<section name="system">
+		<item name="driver" value="new driver"/>
+		<item name="login" value="new login"/>
+		<item name="database" value="new database"/>
+	</section>
+</configuration>
